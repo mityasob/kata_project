@@ -1,0 +1,32 @@
+.main {
+	box-shadow: 0 -1px #D9FFF5;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	height: 509px;
+	background-color: #F8F8F8;
+}
+
+@media (min-width: 768px) {
+	.main {
+		box-shadow: 0 -1px #D9FFF5;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-evenly;
+		width: 768px;
+		height: 416px;
+		background-color: #F8F8F8;
+	}
+}
+
+@media (min-width: 1120px) {
+	.main {
+		box-shadow: 0 -1px #D9FFF5;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-evenly;
+		width: 1120px;
+		min-height: 535px;
+		background-color: #F8F8F8;
+	}
+}

@@ -1,0 +1,17 @@
+.button-info {
+	height: 40px;
+	font-family: "TT Lakes Medium", "Arial", sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: -0.2px;
+	color: #7E7E82;
+	white-space: nowrap;
+	background-color: #F8F8F8;
+	border: none;
+}
+
+.button-info:focus {
+	background-color: #FFFFFF;
+	border: 2px solid #B8FFEC;
+	border-radius: 6px;
+}

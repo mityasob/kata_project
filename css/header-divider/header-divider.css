@@ -1,0 +1,15 @@
+.header-divider {
+	width: 2px;
+	height: 32px;
+	background-color: #EAEAEA;
+}
+
+.header-divider.tablet-header-divider {
+	display: none;
+}
+
+@media (min-width: 768px) {
+	.header-divider.tablet-header-divider {
+		display: flex;
+	}
+}

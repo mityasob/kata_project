@@ -1,0 +1,45 @@
+.about-info {
+	display: flex;
+	flex-direction: column;
+	margin: 0 16px 16px 16px;
+	font-family: "TT Lakes Regular", "Arial", sans-serif;
+	font-weight: normal;
+    font-style: normal;
+	font-size: 14px;
+	line-height: 18px;
+	letter-spacing: 0.2px;
+	color: #1B1C21;
+}
+
+@media (min-width: 768px) {
+	.about-info {
+		display: flex;
+		flex-direction: column;
+		width: 312px;
+		margin: 0;
+		font-family: "TT Lakes Regular", "Arial", sans-serif;
+		font-weight: normal;
+	    font-style: normal;
+		font-size: 14px;
+		line-height: 20px;
+		letter-spacing: 0.2px;
+		color: #1B1C21;
+	}
+}
+
+@media (min-width: 1120px) {
+	.about-info {
+		display: flex;
+		flex-direction: column;
+		width: 490px;
+		margin: 0;
+		margin-top: 9px;
+		font-family: "TT Lakes Regular", "Arial", sans-serif;
+		font-weight: normal;
+	    font-style: normal;
+		font-size: 14px;
+		line-height: 20px;
+		letter-spacing: 0.2px;
+		color: #1B1C21;
+	}
+}

@@ -1,0 +1,32 @@
+.slider-wrapper {
+	margin-left: 16px;
+	height: 40px;
+	display: flex;
+	justify-content: flex-start;
+	overflow: auto;
+}
+
+@media (min-width: 768px) {
+	.slider-wrapper {
+		margin-left: 24px;
+		height: 40px;
+		display: flex;
+		justify-content: flex-start;
+		overflow: auto;
+	}
+}
+
+@media (min-width: 1120px) {
+	.slider-wrapper {
+		margin-left: 32px;
+		height: 80px;
+		display: flex;
+		justify-content: flex-start;
+		flex-wrap: wrap;
+	}
+}
+
+.slider-wrapper::-webkit-scrollbar {
+	width: 0;
+	height: 0;
+}
