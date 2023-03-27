@@ -1,14 +1,14 @@
 .slider {
-	position: relative;
-	display: flex;
-	justify-content: flex-start;
-	height: 40px;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    height: 40px;
 }
 
 @media (min-width: 1120px) {
-	.slider {
-		display: flex;
-		justify-content: flex-start;
-		height: 80px;
-	}
+    .slider {
+        display: flex;
+        justify-content: flex-start;
+        height: 80px;
+    }
 }

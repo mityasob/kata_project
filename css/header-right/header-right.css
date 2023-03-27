@@ -1,15 +1,21 @@
 .header-right {
-	display: flex;
-	justify-content: space-evenly;
-	align-items: center;
-	width: 134px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    width: 134px;
+    list-style-type: none;
 }
 
 @media (min-width: 768px) {
-	.header-right {
-		display: flex;
-		justify-content: space-evenly;
-		align-items: center;
-		width: 370px;
-	}
+    .header-right {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+        width: 370px;
+        list-style-type: none;
+    }
 }

@@ -1,10 +1,10 @@
 .status {
-	display: none;
+    display: none;
 }
 
 @media (min-width: 1120px) {
-	.status {
-		display: flex;
-		margin-right: 32px;
-	}
+    .status {
+        display: flex;
+        margin-right: 32px;
+    }
 }

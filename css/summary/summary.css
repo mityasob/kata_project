@@ -1,13 +1,13 @@
 .summary {
-	font-family: "TT Lakes Medium", "Arial", sans-serif;
-	font-size: 16px;
-	line-height: 24px;
-	letter-spacing: -0.2px;
-	color: #1B1C21;
-	display: flex;
-	margin-left: 8px;
+    font-family: "TT Lakes Medium", "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -0.2px;
+    color: #1B1C21;
+    display: flex;
+    margin-left: 8px;
 }
 
-.summary::marker {
-	font-size: 0;
+.summary:hover {
+    cursor: pointer;
 }

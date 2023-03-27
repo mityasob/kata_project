@@ -1,22 +1,22 @@
 .about-image {
-	background-image: url("../../img/mg_3223_320x176.png");
-	height: 176px;
-	width: 320px;
-	
+    background-image: url("../../img/mg_3223_320x176.png");
+    height: 176px;
+    width: 320px;
+
 }
 
 @media (min-width: 768px) {
-	.about-image {
-		height: 208px;
-		width: 360px;
-		background-image: url("../../img/mg_3223_360x208.png");
-	} 
+    .about-image {
+        height: 208px;
+        width: 360px;
+        background-image: url("../../img/mg_3223_360x208.png");
+    }
 }
 
 @media (min-width: 1120px) {
-	.about-image {
-		background-image: url("../../img/mg_3223_532x307.png");
-		height: 307px;
-		width: 532px;
-	} 
+    .about-image {
+        background-image: url("../../img/mg_3223_532x307.png");
+        height: 307px;
+        width: 532px;
+    }
 }
