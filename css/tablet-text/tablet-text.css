@@ -1,11 +1,11 @@
 .tablet-text {
-    display: none;
+  display: none;
 }
 
 @media (min-width: 768px) {
-    .tablet-text {
-        display: block;
-        margin-top: 24px;
-        margin-bottom: 0;
-    }
+  .tablet-text {
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 0;
+  }
 }
