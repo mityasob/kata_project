@@ -1,0 +1,9 @@
+.button-menu-element__profile-body-icon {
+  width: 20px;
+  height: 8px;
+  margin-left: 10px;
+  margin-top: 1px;
+  background-color: #FFFFFF;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}

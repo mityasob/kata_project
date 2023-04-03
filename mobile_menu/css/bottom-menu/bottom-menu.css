@@ -1,0 +1,12 @@
+.bottom-menu {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.bottom-menu .button-menu-element {
+  margin-right: 16px;
+}
+
+.bottom-menu .button-menu-element:first-child {
+  margin-left: 24px;
+}

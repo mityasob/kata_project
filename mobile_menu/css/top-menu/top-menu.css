@@ -1,0 +1,15 @@
+.top-menu {
+  display: flex;
+  justify-content: flex-start;
+  list-style: none;
+  align-items: center;
+}
+
+.top-menu .button-menu-element:first-child {
+  margin-left: 24px;
+  margin-right: 16px;
+}
+
+.top-menu .button-menu-element:last-child {
+  margin-left: 79px;
+}

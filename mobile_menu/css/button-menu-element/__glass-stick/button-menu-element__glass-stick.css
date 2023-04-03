@@ -1,0 +1,10 @@
+.button-menu-element__glass-stick {
+  position: absolute;
+  top: 24px;
+  left: 20px;
+  width: 8px;
+  height: 2px;
+  background-color: #FFFFFF;
+  border-radius: 1px;
+  transform: rotate(45deg);
+}

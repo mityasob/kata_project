@@ -1,0 +1,18 @@
+.language-link {
+  font-family: "TT Lakes Regular", "Arial", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.2px;
+  color: #1B1C21;
+}
+
+.language-link:hover,
+.language-link:active {
+  font-family: "TT Lakes Regular", "Arial", sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.2px;
+  color: #7E7E82;
+}

@@ -1,0 +1,9 @@
+.button-menu-element__glass-outer-round {
+  position: absolute;
+  top: 11px;
+  left: 11px;
+  width: 13px;
+  height: 13px;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+}
