@@ -1,0 +1,7 @@
+.brand-circle-button__button-arrow--bottom-stick {
+  width: 10px;
+  height: 2px;
+  background-color: #FF3E79;
+  border-radius: 1px;
+  transform: translate(14px, 18px) rotate(-45deg);
+}

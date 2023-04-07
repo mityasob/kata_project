@@ -1,0 +1,25 @@
+.brand-button {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #FFFFFF;
+  width: 240px;
+  height: 72px;
+  border: 1px solid #EAEAEA;
+  border-radius: 6px;
+  padding: 0;
+  transition-property: background-color;
+  transition-duration: 1s;
+}
+
+.brand-button:hover, .brand-button:active {
+  background-color: #EAEAEA;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .brand-button {
+    width: 224px;
+  }
+}

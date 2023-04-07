@@ -1,0 +1,25 @@
+.brands-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 320px;
+  min-height: 234px;
+  background-color: #F8F8F8;
+}
+
+@media (min-width: 768px) {
+  .brands-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 768px;
+    min-height: 322px;
+    background-color: #F8F8F8;
+  }
+}
+
+@media (min-width: 1120px) {
+  .brands-container {
+    width: 1120px;
+  }
+}

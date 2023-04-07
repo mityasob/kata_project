@@ -1,0 +1,9 @@
+.brands-container-element {
+  margin-bottom: 16px;
+}
+
+@media (min-width: 768px) {
+  .brands-container-element {
+    margin-bottom: 24px;
+  }
+}

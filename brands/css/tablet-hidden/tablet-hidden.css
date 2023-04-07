@@ -1,0 +1,9 @@
+.tablet-hidden {
+  display: none;
+}
+
+@media (min-width: 1120px) {
+  .tablet-hidden {
+    display: flex;
+  }
+}

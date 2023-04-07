@@ -1,0 +1,7 @@
+.expand-icon__expand-arrow--to-top:first-child {
+  transform: translate(0, 5px) rotate(135deg);
+}
+
+.expand-icon__expand-arrow--to-top:last-child {
+  transform: translate(0, 5px) rotate(135deg);
+}

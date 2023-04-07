@@ -1,0 +1,10 @@
+.brands-list-element {
+  margin-left: 24px;
+  margin-bottom: 16px;
+}
+
+@media (min-width: 1120px) {
+  .brands-list-element {
+    margin-left: 32px;
+  }
+}
