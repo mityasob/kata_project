@@ -1,5 +1,4 @@
 let summary = document.querySelector(".summary");
-console.log(window.innerWidth);
 let hideBrands = function(element) {
   for (let i = 0; i < element.length; i++) {
     element[i].setAttribute("style", "display: none");
